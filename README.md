@@ -116,7 +116,7 @@ class BuilderExample {
 
 #### Fluent Interface
 
-This pattern is based on the Build one where we try to provide a readable Fluent API over a specific domain. The domain
+This pattern is based on the Builder one where we try to provide a readable Fluent API over a specific domain. The domain
 can include more than one class.
 This might not have the `build()` method to create an object.
 
